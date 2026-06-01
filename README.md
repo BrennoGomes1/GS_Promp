@@ -61,7 +61,7 @@ Analise a situação e forneça sua avaliação técnica.
 
 ## 🎬 Vídeo de Demonstração
 
-[▶️ Assistir ao vídeo](https://link-do-video.com)
+[▶️ Assistir ao vídeo](https://youtu.be/fJEMsmUMKS4?si=hQRoe5W-1Yf3eBVw)
 
 ---
 
