@@ -47,7 +47,6 @@ Analise a situação e forneça sua avaliação técnica.
 
 ## 🖥️ Demonstração
 
-> *Adicione aqui os prints do sistema rodando*
 
 ![Dados da missão - Cenário Normal](assets/dados_normal.png)
 
