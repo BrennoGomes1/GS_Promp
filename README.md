@@ -1,8 +1,10 @@
 # 🚀 Mission Control AI
 
 **Integrantes:**
-Brenno Ferreira Gomes dos Santos – RM:570525
-Eduardo Moreira Silva – RM: 569923
+| Nome | RM |
+| :--- | :--- |
+| Brenno Ferreira Gomes dos Santos | 570525 |
+| Eduardo Moreira Silva | 569923 |
 
 ---
 
