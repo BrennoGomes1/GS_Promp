@@ -53,9 +53,9 @@ Analise a situação e forneça sua avaliação técnica.
 
 ![Alerta crítico ativado](assets/alerta_critico.png)
 
-![Análise da IA](assets/analise_ia.png)
+![Dados crítico](assets/dados_critico.png)
 
-![Monitoramento contínuo](assets/monitoramento_continuo.png)
+![Dados alerta](assets/dados_alerta.png)
 
 ---
 
